@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://darwinyanmila.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/acordes-basicos.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/historia.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/partes-guitarra.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/terms.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/privacy-policy.html</loc>
+  </url>
+
+  <!-- NOTAS -->
+  <url>
+    <loc>https://darwinyanmila.github.io/notas/primera-cuerda.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/notas/segunda-cuerda.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/notas/tercera-cuerda.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/notas/cuarta-cuerda.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/notas/quinta-cuerda.html</loc>
+  </url>
+
+  <url>
+    <loc>https://darwinyanmila.github.io/notas/sexta-cuerda.html</loc>
+  </url>
+
+</urlset>
